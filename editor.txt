@@ -1,0 +1,1 @@
+This is my second commit and adding here few lines to editor mode
