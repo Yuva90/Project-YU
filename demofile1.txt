@@ -1,3 +1,7 @@
 This is hands on stashing
 
+<<<<<<< Updated upstream
 Yes yuvaraj
+=======
+Yuvaraj learning Devops
+>>>>>>> Stashed changes
